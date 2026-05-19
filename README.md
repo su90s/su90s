@@ -1,9 +1,7 @@
-<! -- BANNER -->
 <div align="center">
   <img src="https://github.com/su90s/su90s/blob/86b518ecc650c4a3412e626bdb7279c2379eabbe/banner.jpg" width="100%" alt="banner"/>
 </div>
 
-<! -- TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/demo/?font=IM+Fell+English+SC&size=26&color=780000&lines=I'm+Malenia+Blade+of+Miquella." alt="Typing SVG"/>
 </div>
