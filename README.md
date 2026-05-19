@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=IM+Fell+English+SC&size=26&color=C9A84C&lines=I'm+Malenia+Blade+of+Miquella" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=IM+Fell+English+SC&size=26&pause=1000&color=C9A84C&width=435&lines=I%27m+Malenia+Blade+of+Miquella" alt="Typing SVG"/>
 </div>
 
 ---
